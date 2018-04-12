@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+    <head>
+        <meta name="dtb:uid" content="urn:uuid:123-456-789"/>
+        <meta name="dtb:depth" content="1"/>
+        <meta name="dtb:totalPageCount" content="0"/>
+        <meta name="dtb:maxPageNumber" content="0"/>
+    </head>
+    <docTitle>
+        <text>親子天下</text>
+    </docTitle>
+    <!-- <navMap>
+        <navPoint id="navpoint-1" playOrder="1">
+            <navLabel><text>1</text></navLabel>
+            <content src="1.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-2" playOrder="2">
+            <navLabel><text>2</text></navLabel>
+            <content src="2.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-3" playOrder="3">
+            <navLabel><text>3</text></navLabel>
+            <content src="3.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-4" playOrder="4">
+            <navLabel><text>4</text></navLabel>
+            <content src="4.xhtml"/>
+        </navPoint>
+        <navPoint id="navpoint-5" playOrder="5">
+            <navLabel><text>5</text></navLabel>
+            <content src="5.xhtml"/>
+        </navPoint>
+    </navMap> -->
+    <pageList>
+        <pageTarget type="normal" value="1">
+            <navLabel><text>86</text></navLabel>
+            <content src="86.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="2">
+            <navLabel><text>87</text></navLabel>
+            <content src="87.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="3">
+            <navLabel><text>88</text></navLabel>
+            <content src="88.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="4">
+            <navLabel><text>89</text></navLabel>
+            <content src="89.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="5">
+            <navLabel><text>90</text></navLabel>
+            <content src="90.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="6">
+            <navLabel><text>91</text></navLabel>
+            <content src="91.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="7">
+            <navLabel><text>92</text></navLabel>
+            <content src="92.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="8">
+            <navLabel><text>93</text></navLabel>
+            <content src="93.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="9">
+            <navLabel><text>94</text></navLabel>
+            <content src="94.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="10">
+            <navLabel><text>95</text></navLabel>
+            <content src="95.xhtml"/>
+        </pageTarget>
+        <pageTarget type="normal" value="11">
+            <navLabel><text>96</text></navLabel>
+            <content src="96.xhtml"/>
+        </pageTarget>
+    </pageList>
+</ncx>
